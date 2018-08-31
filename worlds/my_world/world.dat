@@ -1,0 +1,14 @@
+#Thu Aug 30 19:49:10 EDT 2018
+PetProtection=false
+RequireValidPassword=false
+FireDamage=true
+FreezeWorld=false
+KeepInventory=false
+PrivateServer=false
+TimeOfDay=65
+WorldSeed=1535667261763
+DefaultPrivs=-1
+CaveGeneration=true
+PlayNicely=false
+AllowAnonymous=false
+MaxPlayers=10
