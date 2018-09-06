@@ -3,14 +3,15 @@ package com.jtrent238.hammermod.items.hammers;
 import dangerzone.gui.InventoryMenus;
 import dangerzone.items.Item;
 
-public class ItemDirtHammer extends Item {
+public class ItemCryingObsidainHammer extends Item {
 
-	public ItemDirtHammer(String n, String txt) {
+	public ItemCryingObsidainHammer(String n, String txt) {
+		//TODO: Fill in INFO!!!
 		super(n, txt);
 		maxstack = 1;
-		attackstrength = 2;
+		attackstrength = 10;
 		stonestrength = Math.round(attackstrength / 2);
-		maxuses = Math.round((attackstrength * stonestrength) * 2);
+		maxuses = 8000;
 		burntime = 15;
 		hold_straight = true;
 		flopped = false;

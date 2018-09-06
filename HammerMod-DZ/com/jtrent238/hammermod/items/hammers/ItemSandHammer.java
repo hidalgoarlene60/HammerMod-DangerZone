@@ -3,9 +3,9 @@ package com.jtrent238.hammermod.items.hammers;
 import dangerzone.gui.InventoryMenus;
 import dangerzone.items.Item;
 
-public class ItemDirtHammer extends Item {
+public class ItemSandHammer extends Item {
 
-	public ItemDirtHammer(String n, String txt) {
+	public ItemSandHammer(String n, String txt) {
 		super(n, txt);
 		maxstack = 1;
 		attackstrength = 2;

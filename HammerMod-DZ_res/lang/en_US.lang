@@ -1,0 +1,166 @@
+//jtrent238's Hammer Mod Lang File
+//en_US
+
+//Items
+item.ItemWoodHammer.name=Wood Hammer
+item.ItemStoneHammer.name=Stone Hammer
+item.ItemIronHammer.name=Iron Hammer
+item.ItemGoldHammer.name=Gold Hammer
+item.ItemDiamondHammer.name=Diamond Hammer
+item.ItemCopperHammer.name=Copper Hammer
+item.ItemBronzeHammer.name=Bronze Hammer
+item.ItemCreeperHammer.name=Creeper Hammer
+item.ItemPigHammer.name=Pig Hammer
+item.ItemDirtHammer.name=Dirt Hammer
+item.ItemGlassHammer.name=Glass Hammer
+item.ItemSandHammer.name=Sand Hammer
+item.ItemCactusHammer.name=Cactus Hammer
+item.ItemGravelHammer.name=Gravel Hammer
+item.ItemSilverHammer.name=Silver Hammer
+item.ItemWoolHammer_white.name=White Wool Hammer
+item.ItemTungstenHammer.name=Tungsten Hammer
+item.ItemRubyHammer.name=Ruby Hammer
+item.ItemEmeraldHammer.name=Emerald Hammer
+item.ItemTinHammer.name=Tin Hammer
+item.ItemGrassHammer.name=Grass Hammer
+item.ItemObsidianHammer.name=Obsidian Hammer
+item.ItemGlowstoneHammer.name=Glowstone Hammer
+item.ItemRedstoneHammer.name=Redstone Hammer
+item.ItemLapizHammer.name=Lapis Hammer
+item.ItemJadeHammer.name=Jade Hammer
+item.ItemAmethystHammer.name=Amethyst Hammer
+item.ItemGraphiteHammer.name=Graphite Hammer
+item.ItemCitrineHammer.name=Citrine Hammer
+item.ItemPierreHammer.name=Pierre Hammer
+item.ItemNetherackHammer.name=Netherack Hammer
+item.ItemSoulSandHammer.name=Soul sand Hammer
+item.ItemCoalHammer.name=Coal Hammer
+item.ItemCharcoalHammer.name=Charcoal Hammer
+item.ItemEndstoneHammer.name=End stone Hammer
+item.ItemBoneHammer.name=Bone Hammer
+item.ItemSapphireHammer.name=Sapphire Hammer
+item.ItemOnyxHammer.name=Onyx Hammer
+item.ItemNikoliteHammer.name=Nikolite Hammer
+item.ItemSilicaHammer.name=Silica Hammer
+item.ItemSpongeHammer.name=Sponge Hammer
+item.ItemBrickHammer.name=Brick Hammer
+item.ItemSugarHammer.name=Sugar Hammer
+item.ItemSlimeHammer.name=Slime Hammer
+item.ItemMelonHammer.name=Melon Hammer
+item.ItemPumpkinHammer.name=Pumpkin Hammer
+item.ItemPotatoHammer.name=Potato Hammer
+item.ItemCarrotHammer.name=Carrot Hammer
+item.ItemPatHammer.name=FuriousDestroyer Hammer
+item.ItemJenHammer.name=SuperGirlyGamer Hammer
+item.ItemDanTDMHammer.name=DanTDM Hammer
+item.ItemxJSQHammer.name=xJSQ Hammer
+item.ItemSkyTheKidRSHammer.name=SkyTheKidRS Hammer
+item.ItemAppleHammer.name=Apple Hammer
+item.ItemIceHammer.name=Ice Hammer
+item.ItemPackedIceHammer.name=Packed Ice Hammer
+item.ItemSnowHammer.name=Snow Hammer
+item.ItemCakeHammer.name=Cake Hammer
+item.ItemCinnabarHammer.name=Cinnabar Hammer
+item.ItemAmberBearingStoneHammer.name=Amber Bearing Stone Hammer
+item.ItemFerrousHammer.name=Ferrous Hammer
+item.ItemAdaminiteHammer.name=Adaminite Hammer
+item.ItemShinyHammer.name=Shiny Hammer
+item.ItemXychoriumHammer.name=Xychorium Hammer
+item.ItemThackAttack_MCHammer.name=ThackAttack_MC Hammer
+item.ItemCryingObsidainHammer.name=Crying Obsidain Hammer
+item.ItemMythicalHammer.name=Mythical Hammer
+item.Item_MrGregor_Hammer.name=_MrGregor_ Hammer
+item.ItemToasterHammer.name=Toaster Hammer
+item.ItemCowHammer.name=Cow Hammer
+item.ItemBedrockHammer.name=Bedrock Hammer
+item.ItemDragonEggHammer.name=DragonEgg Hammer
+item.ItemTntHammer.name=TNT Hammer
+item.ItemTitaniumHammer.name=Titanium Hammer
+item.ItemUraniumHammer.name=Uranium Hammer
+item.ItemBloodStoneHammer.name=Bloodstone Hammer
+item.ItemRustedHammer.name=Rusted Hammer
+item.ItemRositeHammer.name=Rosite Hammer
+item.ItemLimoniteHammer.name=Limonite Hammer
+item.ItemDeeAxelJayHammer.name=DeeAxelJay Hammer
+item.ItemMithrilHammer.name=Mithril Hammer
+item.ItemPrometheumHammer.name=Prometheum Hammer
+item.ItemHepatizonHammer.name=Hepatizon Hammer
+item.ItemPoopHammer.name=Poop Hammer
+item.ItemAngmallenHammer.name=Angmallen Hammer
+item.ItemManganeseHammer.name=Manganese Hammer
+item.ItemSearedBrickHammer.name=Seared Brick Hammer
+item.ItemElectrumHammer.name=Electrum Hammer
+item.ItemPigIronHammer.name=Pig Iron Hammer
+item.ItemArditeHammer.name=Ardite Hammer
+item.ItemAlumiteHammer.name=Alumite Hammer
+item.ItemCobaltHammer.name=Cobalt Hammer
+item.ItemManyullynHammer.name=Manyullyn Hammer
+item.ItemRainbowHammer.name=Rainbow Hammer
+item.ItemOureclaseHammer.name=Oureclase Hammer
+item.ItemHaderothHammer.name=Haderoth Hammer
+item.ItemInfuscoliumHammer.name=Infuscolium Hammer
+item.ItemMissingTextureHammer.name=Missing Texture Hammer
+item.ItemRubberHammer.name=Rubber Hammer
+item.ItemDesichalkosHammer.name=Desichalkos Hammer
+item.ItemMeutoiteHammer.name=Meutoite Hammer
+item.ItemEximiteHammer.name=Eximite Hammer
+item.ItemMidasiumHammer.name=Midasium Hammer
+item.ItemSanguiniteHammer.name=Sanguinite Hammer
+item.ItemInolashiteHammer.name=Inolashite Hammer
+item.ItemVulcaniteHammer.name=Vulcanite Hammer
+item.ItemLemuriteHammer.name=Lemurite Hammer
+item.ItemAmordrineHammer.name=Amordrine Hammer
+item.ItemCeruclaseHammer.name=Ceruclase Hammer
+item.ItemKalendriteHammer.name=Kalendrite Hammer
+item.ItemVyroxeresHammer.name=Vyroxeres Hammer
+item.ItemCarmotHammer.name=Carmot Hammer
+item.ItemTartariteHammer.name=Tartarite Hammer
+item.ItemAtlarusHammer.name=Atlarus Hammer
+item.ItemAstralHammer.name=Astral Hammer
+item.ItemCelenegilHammer.name=Celenegil Hammer
+item.ItemAredriteHammer.name=Aredrite Hammer
+item.ItemOrichalcumHammer.name=Orichalcum Hammer
+
+	/Weapons & Tools
+	/Armor
+	/Spawn Eggs
+
+//Blocks
+
+//Entitys
+
+//Mod Devs And Helpers
+
+//Container
+//Generators
+
+//Achievements
+achievement.boom=Pssst! BOOM!
+achievement.boom.desc=Explode a Creeper Hammer
+achievement.toast=Umm... TOAST!
+achievement.toast.desc=Make some Toast with the Toaster Hammer
+achievement.rainbow=Wait... Was this Hammer supposed to be a secret?
+achievement.rainbow.desc=Obtain a Rainbow Hammer
+//Enchantments
+//Potions
+
+//ToolTips
+tooltip.hammermod.communityhammer=Community Hammer
+tooltip.hammermod.ythammer=YouTuber Hammer
+tooltip.hammermod.twitchhammer=Twitch Hammer
+tooltip.hammermod.special=Special Hammer
+tooltip.hammermod.multiplier=The Multiplier for this Hammer is: 
+tooltip.hammermod.rainbowhammer.multiplierinfo=(Based on Total Number of Hammers in the mod) 
+
+tooltip.hammermod.ItemCryingObsidainHammer.createdby=Hammer Designed By: Thefancyman
+tooltip.hammermod.ItemMythicalHammer.createdby=Hammer Designed By: _Answers_
+tooltip.hammermod.ItemToasterHammer.createdby=Hammer Designed By: qwas_1234
+
+//Stats
+stat.chexplosions=Creeper Hammer Explosions
+stat.thbaked=Toast baked with Toaster Hammer.
+
+//Creative Tabs
+itemGroup.HammerMod=jtrent238's Hammer Mod
+
+//Misc

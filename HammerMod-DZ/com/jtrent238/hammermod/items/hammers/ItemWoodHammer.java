@@ -8,7 +8,7 @@ public class ItemWoodHammer extends Item {
 	public ItemWoodHammer(String n, String txt) {
 		super(n, txt);
 		maxstack = 1;
-		attackstrength = 1;
+		attackstrength = 2;
 		stonestrength = Math.round(attackstrength / 2);
 		maxuses = Math.round((attackstrength * stonestrength) * 2);
 		burntime = 15;

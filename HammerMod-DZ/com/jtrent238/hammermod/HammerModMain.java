@@ -10,6 +10,7 @@ public class HammerModMain extends BaseMod {
 	public static String MODAUTHOR = "jtrent238";
 	public static String MODVERSION = "1.0.0.0";
 	public static String DANGERZONEVERSION = "1.7";
+	public static int numHammers;
 	
 	public HammerModMain (){
 		super();
@@ -33,6 +34,7 @@ public class HammerModMain extends BaseMod {
 		//System.out.printf("Demo mod printf! registerThings()\n");
 
 		ItemLoader.LoadItems();
+		Recipes.registerRecpies();
 		
 
 /*

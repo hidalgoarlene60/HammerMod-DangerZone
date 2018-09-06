@@ -3,12 +3,12 @@ package com.jtrent238.hammermod.items.hammers;
 import dangerzone.gui.InventoryMenus;
 import dangerzone.items.Item;
 
-public class ItemDirtHammer extends Item {
+public class ItemDiamondHammer extends Item {
 
-	public ItemDirtHammer(String n, String txt) {
+	public ItemDiamondHammer(String n, String txt) {
 		super(n, txt);
 		maxstack = 1;
-		attackstrength = 2;
+		attackstrength = 15;
 		stonestrength = Math.round(attackstrength / 2);
 		maxuses = Math.round((attackstrength * stonestrength) * 2);
 		burntime = 15;
