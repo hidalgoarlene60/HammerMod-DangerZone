@@ -33,7 +33,7 @@ public class Recipes {
 		Crafting.registerCraftingRecipe(Items.charcoalstick, Items.charcoalstick, Items.charcoalstick, Items.charcoalstick, Items.stick, Items.charcoalstick, null, Items.stick, null, ItemLoader.ItemCharcoalHammer, 1, true);
 		Crafting.registerCraftingRecipe(Items.moosebone, Items.moosebone, Items.moosebone, Items.moosebone, Items.stick, Items.moosebone, null, Items.stick, null, ItemLoader.ItemBoneHammer, 1, true);
 		Crafting.registerCraftingRecipe(Items.apple, Items.apple, Items.apple, Items.apple, Items.stick, Items.apple, null, Items.stick, null, ItemLoader.ItemAppleHammer, 1, true);
-		Crafting.registerCraftingRecipe(Items.lumpcopper, Items.lumpcopper, Items.lumpcopper, Items.lumpcopper, Items.stick, Items.stick, null, Items.stick, null, ItemLoader.ItemCopperHammer, 1, true);
+		Crafting.registerCraftingRecipe(Items.lumpcopper, Items.lumpcopper, Items.lumpcopper, Items.lumpcopper, Items.stick, Items.lumpcopper, null, Items.stick, null, ItemLoader.ItemCopperHammer, 1, true);
 		Crafting.registerCraftingRecipe(Items.lumpsilver, Items.lumpsilver, Items.lumpsilver, Items.lumpsilver, Items.stick, Items.lumpsilver, null, Items.stick, null, ItemLoader.ItemSilverHammer, 1, true);
 		//Crafting.registerCraftingRecipe(Items.apple, Items.apple, Items.apple, Items.apple, Items.stick, Items.apple, null, Items.stick, null, ItemLoader.ItemRubyHammer, 1, true);
 		Crafting.registerCraftingRecipe(Items.lumptin, Items.lumptin, Items.lumptin, Items.lumptin, Items.stick, Items.lumptin, null, Items.stick, null, ItemLoader.ItemTinHammer, 1, true);
